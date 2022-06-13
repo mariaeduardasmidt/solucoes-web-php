@@ -1,0 +1,26 @@
+input.custom-input {
+    background-color: #e1e5f2;
+    color: #696969;
+}
+
+input.custom-input:focus {
+    background-color: #e1e5f2;
+    border-color: #696969;
+    outline: none !important;
+    box-shadow: none !important;
+    color: #696969;
+}
+
+input.custom-input::placeholder {
+    color: #696969;
+}
+
+div.custom-card {
+    width: 30rem;
+    margin: 0 auto;
+    background: #e1e5f2;
+}
+
+div#card-product-list {
+    display: none;
+}
