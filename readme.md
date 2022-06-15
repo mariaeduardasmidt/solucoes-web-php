@@ -1,4 +1,4 @@
-## Atividade de Soluções WEB - Eng. da Computação - UniSATC
+## Soluções WEB
 
 Atividade de PHP (Back-End)
 
@@ -6,4 +6,5 @@ Atividade de PHP (Back-End)
 Objetivo: Criar uma interação entre: Navegador, back-end e banco de dados.
 Descrição: Formulário de Registro de Livros com 4 campos: Nome da obra, autor, gênero literário e categoria.
 ```
-Desenvolvido por: Maria Eduarda Smidt da Silva
+Desenvolvido por: Maria Eduarda Smidt da Silva  
+Engenharia da Computação - UniSATC
