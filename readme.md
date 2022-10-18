@@ -1,10 +1,8 @@
-## Soluções WEB
+<!-- SOBRE O PROJETO -->
+## Sobre o projeto
 
-Atividade de PHP (Back-End)
+Projeto realizado na matéria de 'Soluções WEB' do curso de Engenharia da Computação da UNISATC.
 
 ```bash
-Objetivo: Criar uma interação entre: Navegador, back-end e banco de dados.
-Descrição: Formulário de Registro de Livros com 4 campos: Nome da obra, autor, gênero literário e categoria.
+Objetivo: criar uma interação entre navegador, back-end e banco de dados, desenvolvendo um 'Registro Literário' com 4 campos: nome da obra, autor, gênero literário e categoria.
 ```
-Desenvolvido por: Maria Eduarda Smidt da Silva  
-Engenharia da Computação - UniSATC
